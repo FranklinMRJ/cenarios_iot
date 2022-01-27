@@ -16,25 +16,25 @@ sobre o sétimo grupo do cenário 4 em 42minutos (https://github.com/FranklinMRJ
 
 os dados que estão nesse grupo (por terem um valor de atraso muito maior que os demais) são:
 
-2065
-2117
-2170
-2220
-2238
-2287
-2292
-2344
-2381
-2387
-2390
-2436
-2444
-2449
-2458
-2468
-2490
-2595
-2626
-2782
-2808
-3136
+2065,
+2117,
+2170,
+2220,
+2238,
+2287,
+2292,
+2344,
+2381,
+2387,
+2390,
+2436,
+2444,
+2449,
+2458,
+2468,
+2490,
+2595,
+2626,
+2782,
+2808,
+3136,
